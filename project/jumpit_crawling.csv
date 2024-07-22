@@ -1,0 +1,406 @@
+Name,Count
+"Elasticsearch
+· Linux
+· MySQL
+· MariaDB
+· Windows",1
+"Azure Database for PostgreSQL
+· Java
+· R
+· C++
+· AI/인공지능",1
+"AI/인공지능
+· R
+· PyTorch
+· TensorFlow
+· Python",1
+"Java
+· Hadoop
+· AWS
+· SQL
+· Apache Spark
+· Python",1
+"R
+· Slack
+· Notion
+· Tableau
+· Redash
+· SQL
+· Python",1
+"TypeScript
+· Java
+· AZURE
+· Google Analytics
+· PowerBI
+· GCP
+· Hadoop",1
+"MySQL
+· Python
+· SQL",1
+"C#
+· Java
+· AZURE
+· C++
+· NoSql
+· Go
+· AWS
+· SQL
+· Python",1
+"Java
+· AI/인공지능
+· NoSql
+· Docker
+· Kafka
+· Etl
+· Kubernetes",1
+"AI/인공지능
+· C++
+· PyTorch
+· C
+· DeepLearning
+· Python",1
+"Java
+· C++
+· Git
+· NoSql
+· Rust
+· GraphQL
+· WebAssembly
+· BigData",2
+"DeepLearning
+· BigData
+· MachineLearning",1
+"R
+· Tableau
+· Redash
+· SQL
+· Python",1
+"REST API
+· Linux
+· FastAPI
+· ScrapingBot
+· Python
+· Flask
+· SQL",1
+"Java
+· Hadoop
+· Spark
+· Python",1
+"SAP
+· Linux
+· Windows Server
+· DB2
+· PostgreSQL
+· MySQL
+· Vertica",1
+"PyTorch
+· DeepLearning
+· MachineLearning
+· Python
+· TensorFlow",1
+"Java
+· Kibana
+· NoSql
+· Elasticsearch
+· Kafka
+· Redis
+· MongoDB
+· JSON",2
+"C++
+· Git
+· Rust
+· NoSql
+· GraphQL
+· WebAssembly
+· DeepLearning",1
+"R
+· Google BigQuery
+· Python
+· SQL",1
+"Airflow
+· GCP
+· Amazon Redshift
+· PostgreSQL
+· MySQL
+· Kafka",1
+"PyTorch
+· GCP
+· DeepLearning
+· Spark
+· MachineLearning
+· AWS",1
+"Docker
+· AWS
+· Python",1
+"NLP
+· Linux
+· DeepLearning
+· Python",1
+"REST API
+· AI/인공지능
+· GitHub
+· Google Cloud Platform",1
+"CSS 3
+· C++
+· C
+· Linux
+· Google Cloud Platform
+· Hadoop
+· MySQL",1
+"AWS Data Pipeline
+· Dm
+· BigData
+· AWS
+· Kubernetes
+· Python",1
+"AZURE
+· AI/인공지능
+· Git
+· Linux
+· DeepLearning
+· MachineLearning",1
+"AI/인공지능
+· PyTorch
+· Git
+· DeepLearning
+· MachineLearning
+· Python",1
+"Java
+· JavaScript
+· OLAP
+· SQL",1
+"Druid
+· Java
+· Presto
+· Hive
+· Git
+· Confluence
+· Spark
+· Etl
+· AWS
+· Jira",1
+"Caffe2
+· PyTorch
+· DeepLearning
+· MachineLearning
+· Python",1
+"Golang
+· Java
+· ELK
+· Kafka
+· Etl
+· Python
+· Kubernetes
+· SQL",1
+"GCP
+· MachineLearning
+· AWS
+· Python
+· SQL",1
+"PyTorch
+· OpenCV
+· DeepLearning
+· MachineLearning
+· NumPy",1
+"BI
+· DeepLearning
+· OLAP
+· MachineLearning",1
+"Firebase
+· REST API
+· GitHub
+· Google Cloud Platform
+· DeepLearning",1
+"Docker
+· Django
+· Django REST framework
+· PostgreSQL
+· ROS
+· Python",1
+"Java
+· PowerBI
+· Microsoft Power Automate
+· Microsoft PowerApps",1
+"Airflow
+· AZURE
+· NoSql
+· AWS CodeCommit
+· AWS
+· Python
+· SQL",1
+"Airflow
+· R
+· PowerBI
+· Luigi
+· Tableau
+· AWS
+· Python
+· SQL",1
+"BigData
+· Tableau
+· DB",1
+"Java
+· REST API
+· Hadoop
+· BigData
+· MongoDB
+· Spring
+· Lucene",1
+"C++
+· AI/인공지능
+· Python",1
+"ERP
+· SAP
+· PostgreSQL
+· MySQL
+· Hadoop
+· MongoDB
+· Databricks",1
+"JavaScript
+· BigData
+· Node.js
+· MongoDB
+· React Native",1
+"AI/인공지능
+· BigData
+· Python",1
+"AI/인공지능
+· DeepLearning
+· BigData
+· MachineLearning
+· Python",1
+"PyTorch
+· PostgreSQL
+· DeepLearning
+· Jupyter
+· MachineLearning
+· Etl",1
+"AI/인공지능
+· PyTorch
+· scikit-learn
+· Python
+· TensorFlow",1
+"PyTorch
+· Linux
+· OpenCV
+· DeepLearning
+· Python
+· TensorFlow",1
+"Java
+· Amazon EC2
+· AI/인공지능
+· C++
+· C
+· MySQL
+· DeepLearning",1
+"Google BigQuery
+· Dw
+· GCP
+· BigData
+· DeepLearning
+· Dm",1
+"GCP
+· AWS
+· Azure IoT Hub",1
+"AI/인공지능
+· R
+· Python
+· SQL",1
+"PyTorch
+· AWS
+· TensorFlow
+· Python",1
+"C++
+· R
+· JSP
+· JavaScript
+· Node.js
+· React Native
+· React
+· Python",1
+"C++
+· Hive
+· C
+· Rust
+· NoSql
+· Linux
+· Pandas
+· Hadoop
+· Spark",1
+"scikit-learn
+· DeepLearning
+· BigData
+· MachineLearning
+· TensorFlow",1
+"PyTorch
+· NLP
+· Linux
+· Docker
+· DeepLearning
+· Python
+· TensorFlow",1
+"JavaScript
+· Python",1
+"R
+· Azure Database for MySQL
+· Pandas
+· DeepLearning",1
+"C++
+· C
+· Linux
+· Windows",1
+"C#
+· AZURE
+· Microsoft Power Automate
+· PowerBI
+· React
+· Python",1
+"Java
+· MySQL
+· Snowflake
+· Tableau
+· AWS
+· DB
+· Redash
+· Python",1
+"Golang
+· AI/인공지능
+· C
+· GCP
+· Hadoop
+· Kafka
+· BigData
+· Spark
+· AWS",1
+"R
+· BigData
+· Spark
+· AWS
+· Python",1
+"C++
+· Engine Yard Cloud
+· ROS",1
+"C
+· BI
+· Toolbox
+· DeepLearning
+· MachineLearning",1
+"BI
+· BigData
+· DB",1
+"Google Analytics
+· JavaScript
+· Google Cloud Platform
+· OpenAPI",1
+"GNU Bash
+· Linux
+· Docker
+· Amazon EMR
+· MySQL
+· MSSQL
+· SQL",1
+"Matplotlib
+· PyTorch
+· Pandas
+· DeepLearning
+· MachineLearning",1

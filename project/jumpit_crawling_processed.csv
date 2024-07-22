@@ -1,0 +1,110 @@
+Name,Count
+Elasticsearch,2
+Linux,11
+MySQL,9
+MariaDB,1
+Windows,2
+Azure Database for PostgreSQL,1
+Java,15
+R,10
+C++,12
+AI/인공지능,14
+PyTorch,13
+TensorFlow,7
+Python,34
+Hadoop,8
+AWS,14
+SQL,14
+Apache Spark,1
+Slack,1
+Notion,1
+Tableau,5
+Redash,3
+TypeScript,1
+AZURE,5
+Google Analytics,2
+PowerBI,4
+GCP,7
+C#,2
+NoSql,7
+Go,1
+Docker,5
+Kafka,5
+Etl,4
+Kubernetes,3
+C,7
+DeepLearning,22
+Git,5
+Rust,3
+GraphQL,2
+WebAssembly,2
+BigData,13
+MachineLearning,14
+REST API,4
+FastAPI,1
+ScrapingBot,1
+Flask,1
+Spark,6
+SAP,2
+Windows Server,1
+DB2,1
+PostgreSQL,5
+Vertica,1
+Kibana,1
+Redis,1
+MongoDB,4
+JSON,1
+Google BigQuery,2
+Airflow,3
+Amazon Redshift,1
+NLP,2
+GitHub,2
+Google Cloud Platform,4
+CSS 3,1
+AWS Data Pipeline,1
+Dm,2
+JavaScript,5
+OLAP,2
+Druid,1
+Presto,1
+Hive,2
+Confluence,1
+Jira,1
+Caffe2,1
+Golang,2
+ELK,1
+OpenCV,2
+NumPy,1
+BI,3
+Firebase,1
+Django,1
+Django REST framework,1
+ROS,2
+Microsoft Power Automate,2
+Microsoft PowerApps,1
+AWS CodeCommit,1
+Luigi,1
+DB,3
+Spring,1
+Lucene,1
+ERP,1
+Databricks,1
+Node.js,2
+React Native,2
+Jupyter,1
+scikit-learn,2
+Amazon EC2,1
+Dw,1
+Azure IoT Hub,1
+JSP,1
+React,2
+Pandas,3
+Azure Database for MySQL,1
+Snowflake,1
+Engine Yard Cloud,1
+Toolbox,1
+OpenAPI,1
+GNU Bash,1
+Amazon EMR,1
+MSSQL,1
+Matplotlib,1
